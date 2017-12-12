@@ -10,7 +10,7 @@ comedy = "This is the End"
 dramedy = "Knocked Up"
 book = "Stealing Fire"
 
-# Exercise 1
+# Exercise 1---------------------------------------------------------------
 
 puts "Do you like documentaries?"
 
@@ -44,7 +44,7 @@ if docans == "no" && dramaans == "no" && comedyans == "no"
   puts "Doesn't seem like you're too into movies, check out the book #{book} instead!"
 end
 
-# Exercise 2
+# Exercise 2 ----------------------------------------------------------
 
 puts "From a scale of 1-5, please rate your love for documentaries"
 
